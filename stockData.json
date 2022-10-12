@@ -1,0 +1,13 @@
+[{"symbol": "GOOGL-USD", "price": "97.20", "diff": "-2.30", "percnt": "(-2.31%)", "change": "-2.30 + (-2.31%)"}, 
+{"symbol": "FB-USD", "price": "133.46", "diff": "-4.38", "percnt": "(-3.18%)", "change": "-4.38 + (-3.18%)"}, 
+{"symbol": "DPI-USD", "price": "79.32", "diff": "-4.43", "percnt": "(-5.29%)", "change": "-4.43 + (-5.29%)"},
+ {"symbol": "GHST-USD", "price": "1.1894", "diff": "+0.0025", "percnt": "(+0.21%)", "change": "+0.0025 + (+0.21%)"},
+ {"symbol": "TSLA", "price": "282.94", "diff": "+6.93", "percnt": "(+2.51%)", "change": "+6.93 + (+2.51%)"},
+ {"symbol": "ARKX", "price": "12.56", "diff": "-0.04", "percnt": "(-0.32%)", "change": "-0.04 + (-0.32%)"}, 
+{"symbol": "LYFT", "price": "14.16", "diff": "+0.64", "percnt": "(+4.73%)", "change": "+0.64 + (+4.73%)"},
+ {"symbol": "UBER", "price": "27.57", "diff": "+0.68", "percnt": "(+2.53%)", "change": "+0.68 + (+2.53%)"},
+ {"symbol": "ABNB", "price": "106.37", "diff": "+3.14", "percnt": "(+3.04%)", "change": "+3.14 + (+3.04%)"},
+ {"symbol": "DASH", "price": "51.15", "diff": "+0.42", "percnt": "(+0.83%)", "change": "+0.42 + (+0.83%)"}, 
+{"symbol": "SNAP", "price": "10.45", "diff": "+0.27", "percnt": "(+2.65%)", "change": "+0.27 + (+2.65%)"}, 
+{"symbol": "TWTR", "price": "42.09", "diff": "+0.57", "percnt": "(+1.37%)", "change": "+0.57 + (+1.37%)"},
+ {"symbol": "META", "price": "134.40", "diff": "-1.97", "percnt": "(-1.44%)", "change": "-1.97 + (-1.44%)"}]
